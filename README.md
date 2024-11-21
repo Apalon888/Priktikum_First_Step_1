@@ -1,1 +1,1 @@
-# Priktikum_First_Step_1
+# Praktikum_First_Step_1
